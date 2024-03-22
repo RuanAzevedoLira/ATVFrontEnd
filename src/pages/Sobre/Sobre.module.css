@@ -1,0 +1,35 @@
+
+.perfil{
+    border: 5px solid rgb(255, 255, 255);
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+.img_perfil{
+    height: 200px;
+}
+
+.info_perfil{
+    border: 5px solid rgb(255, 255, 255);
+}
+
+.redes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+figure{
+    display: flex;
+    margin: 20px;
+    gap: 20px;
+}
+
+.img_redes{
+    height: 40px;
+    gap: 5px;
+}
